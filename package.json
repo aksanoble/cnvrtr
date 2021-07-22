@@ -1,0 +1,6 @@
+{
+  "name": "cnvrtr",
+  "version": "0.0.1",
+  "description": "Convert files securely",
+  "main": "index.js"
+}
